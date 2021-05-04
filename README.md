@@ -3,4 +3,6 @@
 
 - enterprise software engineering
 - embedded controls engineering
-- medical, telecommunications, aerospace, mil-spec, industrial
+- engineering process design
+- medical, telecommunications, aerospace, industrial controls
+- CMMI, IEEE-Std, mil-spec
